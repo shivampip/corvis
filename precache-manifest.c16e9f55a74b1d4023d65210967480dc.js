@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "641690be749828678565a212d398e433",
+    "revision": "eb8dfc5d135eb507cfbdc9c79dcb2f75",
     "url": "/corvis/index.html"
   },
   {
-    "revision": "44d17a241815e440b915",
+    "revision": "dc714755ab02b414537a",
     "url": "/corvis/static/css/main.34943fe3.chunk.css"
   },
   {
-    "revision": "306677cd344fbd21f1a3",
-    "url": "/corvis/static/js/2.9e99491b.chunk.js"
+    "revision": "a6e565626fc54564f43d",
+    "url": "/corvis/static/js/2.cefb1d9e.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/corvis/static/js/2.9e99491b.chunk.js.LICENSE.txt"
+    "url": "/corvis/static/js/2.cefb1d9e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "44d17a241815e440b915",
-    "url": "/corvis/static/js/main.08d9e842.chunk.js"
+    "revision": "dc714755ab02b414537a",
+    "url": "/corvis/static/js/main.63201226.chunk.js"
   },
   {
     "revision": "c64605eb4c40ec8d76a5",
