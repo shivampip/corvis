@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c56fd093fa9fde6cfe1b2e7acec774e",
+    "revision": "e2bb03d22e31eb678672b14e1f39a38d",
     "url": "/corvis/index.html"
   },
   {
-    "revision": "dc714755ab02b414537a",
+    "revision": "55c0560a26be00571725",
     "url": "/corvis/static/css/main.34943fe3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/corvis/static/js/2.cefb1d9e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc714755ab02b414537a",
-    "url": "/corvis/static/js/main.63201226.chunk.js"
+    "revision": "55c0560a26be00571725",
+    "url": "/corvis/static/js/main.3ea793ea.chunk.js"
   },
   {
     "revision": "c64605eb4c40ec8d76a5",
